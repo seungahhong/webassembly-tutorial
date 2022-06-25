@@ -10,7 +10,6 @@
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com). From your command line:
-F
 
 ```bash
 # Clone this repository
